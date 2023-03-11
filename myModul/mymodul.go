@@ -2,6 +2,6 @@ package mymodul
 
 import "fmt"
 
-func sayHi() {
+func SayHi() {
 	fmt.Printf("Hello\n")
 }
